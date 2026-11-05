@@ -44,7 +44,7 @@ Através da formação AWS re/Start e de certificações oficiais, adquiri conhe
 
 | Projeto | Descrição | Tecnologias Utilizadas |
 | :--- | :--- | :--- |
-| **AWS Institutional Architecture**(https://github.com/saa-lucas/AWS-Institutional-Architecture) | Estudo colaborativo de infraestrutura web altamente disponível e resiliente seguindo as melhores práticas da AWS (EC2, ALB, Auto Scaling, RDS, CloudFront e CloudWatch). | AWS, EC2, CloudWatch, Redes |
+| [**AWS Institutional Architecture**](https://github.com/saa-lucas/AWS-Institutional-Architecture) | Estudo colaborativo de infraestrutura web altamente disponível e resiliente seguindo as melhores práticas da AWS (EC2, ALB, Auto Scaling, RDS, CloudFront e CloudWatch). | AWS, EC2, CloudWatch, Redes |
 | **Automação de Fluxo de Atendimento de Help Desk** | Desenvolvimento de uma solução No-Code ponta a ponta para gerenciamento de chamados técnicos, aplicando conceitos reais de triagem, controle de status e incidentes. | Tally, Airtable, Activepieces |
 
 ---
