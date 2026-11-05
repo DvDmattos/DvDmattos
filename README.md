@@ -23,6 +23,19 @@ Através da formação AWS re/Start e de certificações oficiais, adquiri conhe
 
 ---
 
+### 🎓 Formação & Credenciais:
+
+| Certificação / Graduação | Instituição / Escola | Status |
+| :--- | :--- | :--- |
+| **Tecnologia da Informação** | Universidade Virtual do Estado de São Paulo (UNIVESP) | ⚪ cursando |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) |  Concluído |
+| **AWS re/Start (270 horas)** | Escola da Nuvem |  Concluído |
+| **Trilha de Programação** | PECP - Senac | ⚪ Cursando |
+| **Técnico em Administração** | Etec Abdias do Nascimento |  Concluído |
+
+---
+
+
 ### 💻 Meus Projetos em Destaque:
 
 | Projeto | Descrição | Tecnologias Utilizadas |
