@@ -4,7 +4,7 @@
 🎓 **Graduado em Tecnologia** pela UNIVESP (Colação de Grau: 04/11)
 🚀 Desenvolvedor em formação na trilha de Programação do **PECP**
 
-📌 [Acesse meu LinkedIn](https://www.linkedin.com/in/davidhcmattos/) | 📧 [davidhenriquemattos2004@gmail.com]
+📌 [Acesse meu LinkedIn](https://www.linkedin.com/in/davidhcmattos/) | 📧 davidhenriquemattos2004@gmail.com
 
 ---
 
