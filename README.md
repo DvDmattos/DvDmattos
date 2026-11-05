@@ -27,11 +27,13 @@ Através da formação AWS re/Start e de certificações oficiais, adquiri conhe
 
 | Certificação / Graduação | Instituição / Escola | Status |
 | :--- | :--- | :--- |
-| **Tecnologia da Informação https://drive.google.com/file/d/1Mb6QD62pPoXiR6i58oxQV2v3qvVH7ukc/view?usp=drive_link** | Universidade Virtual do Estado de São Paulo (UNIVESP) https://univesp.br | ⚪ cursando |
-| **AWS Certified Cloud Practitioner https://drive.google.com/file/d/1OmY1S-sepUZuf9bv516dwvFDhtlfJK8k/view?usp=drive_link** | Amazon Web Services (AWS) |  Concluído |
-| **AWS re/Start (270 horas) https://drive.google.com/file/d/1aVzjm7mu3G8fqnva41BmIEE3nJPc8EPI/view?usp=drive_link** | Escola da Nuvem https://escoladanuvem.org |  Concluído |
-| **Trilha de Programação** | PECP - Senac https://senac.br | ⚪ Cursando |
-| **Técnico em Administração** | Etec Abdias do Nascimento |  Concluído |
+| [**Tecnologia da Informação**]([https://google.com](https://drive.google.com/file/d/1Mb6QD62pPoXiR6i58oxQV2v3qvVH7ukc/view?usp=drive_link)) | [UNIVESP](https://univesp.br) | ⚪ cursando |
+| [**AWS Certified Cloud Practitioner**](https://drive.google.com/file/d/1OmY1S-sepUZuf9bv516dwvFDhtlfJK8k/view?usp=drive_link) | [Amazon Web Services (AWS)](https://amazon.com) |  Concluído |
+| [**AWS re/Start (270 horas)**](https://drive.google.com/file/d/1aVzjm7mu3G8fqnva41BmIEE3nJPc8EPI/view?usp=drive_link) | [Escola da Nuvem](https://escoladanuvem.org) |  Concluído |
+| **Trilha de Programação** | [PECP - Senac](https://senac.br) | ⚪ Cursando |
+| **Técnico em Administração** | [Etec Abdias do Nascimento](https://cps.sp.gov.br) |  Concluído |
+
+---
 
 ---
 
