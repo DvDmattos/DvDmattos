@@ -1,11 +1,12 @@
 ## Olá, eu sou o David Henrique 👋
 
 ### ⏰ HOJE
-🎓 **Tecnologia da Informação**  UNIVESP |
-🚀 **Aluno da trilha de **Programação no PECP (Einstein/Senac)** |
-☁️ **AWS Certified Cloud Practitioner** | Buscando a certificação *AWS Certified AI Practitioner*
+🎓 **Tecnologia da Informação** UNIVESP  |
+🚀 **Aluno da trilha de Programação** PECP (Einstein/Senac)  |
+💼 **Buscando vaga** Help Desk  |
+☁️ **Plano certificação *AWS Certified AI Practitioner*  |
 
-📌 [Acesse meu LinkedIn](https://www.linkedin.com/in/davidhcmattos/) | 📧 davidhenriquemattos2004@gmail.com
+📌 [LinkedIn](https://www.linkedin.com/in/davidhcmattos/) | 📧 [E-mail:](davidhenriquemattos2004@gmail.com)
 
 ---
 
