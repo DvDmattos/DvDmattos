@@ -27,7 +27,7 @@ Através da formação AWS re/Start e de certificações oficiais, adquiri conhe
 
 | Certificação / Graduação | Instituição / Escola | Status |
 | :--- | :--- | :--- |
-| [**Tecnologia da Informação**]([https://google.com](https://drive.google.com/file/d/1Mb6QD62pPoXiR6i58oxQV2v3qvVH7ukc/view?usp=drive_link)) | [UNIVESP](https://univesp.br) | ⚪ cursando |
+| [**Tecnologia da Informação**](https://drive.google.com/file/d/1Mb6QD62pPoXiR6i58oxQV2v3qvVH7ukc/view?usp=drive_link) | [UNIVESP](https://univesp.br) | ⚪ cursando |
 | [**AWS Certified Cloud Practitioner**](https://drive.google.com/file/d/1OmY1S-sepUZuf9bv516dwvFDhtlfJK8k/view?usp=drive_link) | [Amazon Web Services (AWS)](https://amazon.com) |  Concluído |
 | [**AWS re/Start (270 horas)**](https://drive.google.com/file/d/1aVzjm7mu3G8fqnva41BmIEE3nJPc8EPI/view?usp=drive_link) | [Escola da Nuvem](https://escoladanuvem.org) |  Concluído |
 | **Trilha de Programação** | [PECP - Senac](https://senac.br) | ⚪ Cursando |
@@ -42,7 +42,7 @@ Através da formação AWS re/Start e de certificações oficiais, adquiri conhe
 
 | Projeto | Descrição | Tecnologias Utilizadas |
 | :--- | :--- | :--- |
-| **AWS Institutional Architecture** | Estudo colaborativo de infraestrutura web altamente disponível e resiliente seguindo as melhores práticas da AWS (EC2, ALB, Auto Scaling, RDS, CloudFront e CloudWatch). | AWS, EC2, CloudWatch, Redes |
+| **AWS Institutional Architecture**(https://github.com/saa-lucas/AWS-Institutional-Architecture) | Estudo colaborativo de infraestrutura web altamente disponível e resiliente seguindo as melhores práticas da AWS (EC2, ALB, Auto Scaling, RDS, CloudFront e CloudWatch). | AWS, EC2, CloudWatch, Redes |
 | **Automação de Fluxo de Atendimento de Help Desk** | Desenvolvimento de uma solução No-Code ponta a ponta para gerenciamento de chamados técnicos, aplicando conceitos reais de triagem, controle de status e incidentes. | Tally, Airtable, Activepieces |
 
 ---
