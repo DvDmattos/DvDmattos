@@ -3,10 +3,11 @@
 ### ⏰ HOJE
 🎓 **Tecnologia da Informação** UNIVESP  |
 🚀 **Aluno da trilha de Programação** PECP (Einstein/Senac)  |
-💼 **Buscando vaga** Help Desk  |
-☁️ **Plano certificação *AWS Certified AI Practitioner*  |
 
-📌 [LinkedIn](https://www.linkedin.com/in/davidhcmattos/) | 📧 [E-mail:](davidhenriquemattos2004@gmail.com)
+💼 **Buscando vaga** Help Desk  |
+☁️ **Plano certificação** *AWS Certified AI Practitioner*  |
+
+📌 [LinkedIn](https://www.linkedin.com/in/davidhcmattos/) | 📧 [E-mail](davidhenriquemattos2004@gmail.com)
 
 ---
 
