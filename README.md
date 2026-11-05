@@ -16,7 +16,9 @@ Através da formação AWS re/Start e de certificações oficiais, adquiri conhe
 
 ### 🎯 Foco Atual:
 • **Suporte Técnico & Operações:** Help Desk, Service Desk Nível 1 e Triagem de Incidentes.
+
 • **Desenvolvimento de Software:** Trilha de Programação (Senac / PECP).
+
 • **Cloud & Inteligência Artificial:** Arquiteturas em Nuvem (AWS) e Inteligência Artificial Aplicada (*AI Practitioner*).
 
 ---
